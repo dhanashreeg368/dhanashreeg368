@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/dhanashreegai19?label=Follow)](https://twitter.com/intent/follow?screen_name=dhanashreegai19)
-[![Linkedin: Dhanashree](https://img.shields.io/badge/-Dhanashree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanashreegaikwad/)](https://www.linkedin.com/in/dhanashreegaikwad/)
+[![Linkedin: Dhanashree](https://img.shields.io/badge/-Dhanashree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanashree-gaikwad/)](https://www.linkedin.com/in/dhanashree-gaikwad/)
 ![GitHub followers](https://img.shields.io/github/followers/dhanashreeg368?label=Follow&style=social)
 <img src="header image.png"></img>
 
