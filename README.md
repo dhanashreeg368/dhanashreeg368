@@ -34,3 +34,10 @@
 [![Twitter](Icons/twitter.png)](https://twitter.com/DhanashreeGai19)
 [![LinkedIn](Icons/linkedin.png)](https://www.linkedin.com/in/dhanashree-gaikwad/)
 [![Instagram](Icons/instagram.png)](https://www.instagram.com/dhanashreeg368)
+
+### GitHub Stats -->
+
+[![Dhanashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanashreeg368)](https://github.com/dhanashreeg368/github-readme-stats)
+![Dhanashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanashreeg368&count_private=true)
+![Dhanashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanashreeg368&show_icons=true)
+![Dhanashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanashreeg368&show_icons=true&theme=radical)
