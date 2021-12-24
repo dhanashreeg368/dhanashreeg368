@@ -1,10 +1,13 @@
 ### Hi there 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/dhanashreegai19?label=Follow)](https://twitter.com/intent/follow?screen_name=dhanashreegai19)
+[![Linkedin: Dhanashree](https://img.shields.io/badge/-Dhanashree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanashreegaikwad/)](https://www.linkedin.com/in/dhanashreegaikwad/)
+![GitHub followers](https://img.shields.io/github/followers/dhanashreeg368?label=Follow&style=social)
 <img src="header image.png"></img>
 
-## I'm a Developer, Programmer, Content Writer and a consistent Learner!!
+## I'm a Developer, Programmer and a consistent Learner!!
 
 - 🌱 I’m currently learning Web Development and Exploring Python Libraries 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Practice Data Structures and Algorithms
 - ⚡ Fun fact: I love playing Games
 
 ### Some Languages and Tools that i use -->
